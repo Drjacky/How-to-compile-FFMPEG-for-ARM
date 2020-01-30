@@ -1,4 +1,4 @@
-# How-to-compile-FFMPEG-for-ARM
+# How to compile FFMPEG for ARM
 
 # You can read this article on [Medium](https://medium.com/@drjacky/how-to-compile-ffmpeg-for-arm-af6e930e1ab2)
 
